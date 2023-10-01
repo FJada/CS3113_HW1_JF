@@ -21,6 +21,16 @@ enum Coordinate
 
 #define LOG(argument) std::cout << argument << '\n'
 
+
+/**
+* Author: JADA FORRESTER
+* Assignment: Simple 2D Scene
+* Date due: 2023-06-11, 11:59pm
+* I pledge that I have completed this assignment without
+* collaborating with anyone else, in conformance with the
+* NYU School of Engineering Policies and Procedures on
+* Academic Misconduct.
+**/
 const int WINDOW_WIDTH = 640,
           WINDOW_HEIGHT = 480;
 
